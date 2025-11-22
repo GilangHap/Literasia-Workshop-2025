@@ -61,7 +61,7 @@ Halaman katalog lengkap dengan filter berdasarkan kategori dan sorting.
 ### 📖 Detail Buku
 Halaman detail buku dengan informasi lengkap dan tombol peminjaman.
 
-![Detail Buku](public/img/screenshots/book-detail.png)
+![Detail Buku](public/img/screenshots/detail-buku.png)
 
 **Fitur:**
 - Cover buku berukuran besar
@@ -76,7 +76,7 @@ Halaman detail buku dengan informasi lengkap dan tombol peminjaman.
 ### 🔐 Halaman Login
 Form login yang clean dan modern dengan branding Literasia.
 
-![Login](public/img/screenshots/login.png)
+![Login](public/img/screenshots/masuk.png)
 
 **Fitur:**
 - Form email dan password
@@ -89,7 +89,7 @@ Form login yang clean dan modern dengan branding Literasia.
 ### 📝 Halaman Registrasi
 Form pendaftaran anggota baru dengan validasi lengkap.
 
-![Registrasi](public/img/screenshots/register.png)
+![Registrasi](public/img/screenshots/daftar.png)
 
 **Fitur:**
 - Form lengkap (Nama, Email, NIM, Telepon)
@@ -102,7 +102,7 @@ Form pendaftaran anggota baru dengan validasi lengkap.
 ### 📋 Halaman Peminjaman Buku
 Detail konfirmasi peminjaman dengan informasi lengkap peminjam dan buku.
 
-![Peminjaman Buku](public/img/screenshots/borrow-page.png)
+![Peminjaman Buku](public/img/screenshots/peminjaman.png)
 
 **Fitur:**
 - Informasi buku yang dipinjam
@@ -116,7 +116,7 @@ Detail konfirmasi peminjaman dengan informasi lengkap peminjam dan buku.
 ### 👤 Profil Saya
 Dashboard member dengan informasi akun dan statistik peminjaman.
 
-![Profil Saya](public/img/screenshots/profile.png)
+![Profil Saya](public/img/screenshots/profil.png)
 
 **Fitur:**
 - Informasi akun lengkap
@@ -130,7 +130,7 @@ Dashboard member dengan informasi akun dan statistik peminjaman.
 ### 📚 Peminjaman Saya
 Riwayat dan status peminjaman aktif member.
 
-![Peminjaman Saya](public/img/screenshots/my-borrows.png)
+![Peminjaman Saya](public/img/screenshots/riwayat.png)
 
 **Fitur:**
 - Quick stats peminjaman
@@ -168,7 +168,7 @@ Dashboard lengkap dengan analytics dan monitoring perpustakaan.
 ### 📚 Manajemen Buku (Admin)
 CRUD lengkap untuk manajemen koleksi buku.
 
-![Manajemen Buku](public/img/screenshots/admin-books.png)
+![Manajemen Buku](public/img/screenshots/admin-buku.png)
 
 **Fitur:**
 - Table view dengan cover preview
@@ -183,7 +183,7 @@ CRUD lengkap untuk manajemen koleksi buku.
 ### 📋 Manajemen Peminjaman (Admin)
 Monitor dan kelola semua transaksi peminjaman.
 
-![Manajemen Peminjaman](public/img/screenshots/admin-borrows.png)
+![Manajemen Peminjaman](public/img/screenshots/admin-peminjaman.png)
 
 **Fitur:**
 - Table view dengan kolom:
